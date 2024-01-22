@@ -1,0 +1,6 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDbWithchainBuilder	videogamedbwithchainbuilder	1705135109405	test	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705135110804
+REQUEST		Get all video Games	1705135110803	1705135111303	OK	 
+REQUEST		Get specific game	1705135116324	1705135116471	OK	 
+REQUEST		Get all video Games	1705135121486	1705135121640	OK	 
+USER	VideoGame DB = section 5 Code	END	1705135121643

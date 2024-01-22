@@ -1,0 +1,13 @@
+RUN	videoGamedb.withFeeders.VideoGaeDbWithFeeders	videogaedbwithfeeders	1705201512376	test	3.10.3
+USER	VideoGame Db - section 6 code	START	1705201513663
+REQUEST		Get a videgame with name - Resident Evil 4	1705201513680	1705201514141	OK	 
+REQUEST		Get a videgame with name - Gran Turismo 3	1705201515217	1705201515370	OK	 
+REQUEST		Get a videgame with name - Tetris	1705201516374	1705201516527	OK	 
+REQUEST		Get a videgame with name - Super Mario 64	1705201517534	1705201517686	OK	 
+REQUEST		Get a videgame with name - Resident Evil 4	1705201518689	1705201518841	OK	 
+REQUEST		Get a videgame with name - Gran Turismo 3	1705201519857	1705201520009	OK	 
+REQUEST		Get a videgame with name - Tetris	1705201521021	1705201521173	OK	 
+REQUEST		Get a videgame with name - Super Mario 64	1705201522186	1705201522338	OK	 
+REQUEST		Get a videgame with name - Resident Evil 4	1705201523346	1705201523496	OK	 
+REQUEST		Get a videgame with name - Gran Turismo 3	1705201524511	1705201524662	OK	 
+USER	VideoGame Db - section 6 code	END	1705201525669

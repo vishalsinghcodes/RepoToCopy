@@ -1,0 +1,13 @@
+RUN	videoGamedb.withFeeders.VideoGaeDbWithJsonFeeders	videogaedbwithjsonfeeders	1705202473904	test	3.10.3
+USER	VideoGame Db - section 6 code	START	1705202475198
+REQUEST		Get a videgame with name - Final Fantasy VII	1705202475214	1705202475680	OK	 
+REQUEST		Get a videgame with name - Doom	1705202476748	1705202476901	OK	 
+REQUEST		Get a videgame with name - Super Mario 64	1705202477914	1705202478068	OK	 
+REQUEST		Get a videgame with name - Grand Theft Auto III	1705202479083	1705202479237	OK	 
+REQUEST		Get a videgame with name - The Legend of Zelda: Ocarina of Time	1705202480250	1705202480404	OK	 
+REQUEST		Get a videgame with name - Minecraft	1705202481421	1705202481574	OK	 
+REQUEST		Get a videgame with name - Doom	1705202482591	1705202482744	OK	 
+REQUEST		Get a videgame with name - SimCity 2000	1705202483747	1705202483899	OK	 
+REQUEST		Get a videgame with name - Gran Turismo 3	1705202484914	1705202485068	OK	 
+REQUEST		Get a videgame with name - Super Mario 64	1705202486071	1705202486224	OK	 
+USER	VideoGame Db - section 6 code	END	1705202487229

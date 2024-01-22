@@ -1,0 +1,14 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDbWithchainBuilder	videogamedbwithchainbuilder	1705144212213	test	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705144214486
+REQUEST		Get all video Games	1705144214484	1705144214989	OK	 
+REQUEST		Get all video Games	1705144215013	1705144215190	OK	 
+REQUEST		Get all video Games	1705144215191	1705144215341	OK	 
+REQUEST		Get specific game with ID : 0	1705144220349	1705144220534	KO	status.find.in(200,202,500), but actually found 404
+REQUEST		Get specific game with ID : 1	1705144220538	1705144220690	OK	 
+REQUEST		Get specific game with ID : 2	1705144220692	1705144220872	OK	 
+REQUEST		Get specific game with ID : 3	1705144220873	1705144221024	OK	 
+REQUEST		Get specific game with ID : 4	1705144221025	1705144221177	OK	 
+REQUEST		Get all video Games	1705144226186	1705144226341	OK	 
+REQUEST		Get all video Games	1705144226343	1705144226492	OK	 
+REQUEST		Get all video Games	1705144226494	1705144226656	OK	 
+USER	VideoGame DB = section 5 Code	END	1705144226659

@@ -1,0 +1,13 @@
+RUN	videoGamedb.withFeeders.VideoGaeDbWithCustomJavaFeeders	videogaedbwithcustomjavafeeders	1705203797598	test	3.10.3
+USER	VideoGame Db - section 6 code	START	1705203799429
+REQUEST		Get a videgame with - 8	1705203799449	1705203799920	OK	 
+REQUEST		Get a videgame with - 1	1705203800954	1705203801107	OK	 
+REQUEST		Get a videgame with - 2	1705203802122	1705203802280	OK	 
+REQUEST		Get a videgame with - 6	1705203803293	1705203803452	OK	 
+REQUEST		Get a videgame with - 4	1705203804462	1705203804620	OK	 
+REQUEST		Get a videgame with - 2	1705203805633	1705203805791	OK	 
+REQUEST		Get a videgame with - 1	1705203806799	1705203806946	OK	 
+REQUEST		Get a videgame with - 9	1705203807951	1705203808098	OK	 
+REQUEST		Get a videgame with - 6	1705203809102	1705203809249	OK	 
+REQUEST		Get a videgame with - 4	1705203810257	1705203810405	OK	 
+USER	VideoGame Db - section 6 code	END	1705203811422

@@ -1,0 +1,4 @@
+RUN	videoGamedb.scriptFundamentals.MyFisrTest	myfisrtest	1705125494904	test1	3.10.3
+USER	My First Test	START	1705125496870
+REQUEST		Get all Games	1705125496868	1705125497336	OK	 
+USER	My First Test	END	1705125497345

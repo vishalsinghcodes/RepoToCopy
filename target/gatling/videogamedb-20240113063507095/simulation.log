@@ -1,0 +1,6 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDb	videogamedb	1705127707095	test5	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705127708757
+REQUEST		Get all VideoGames	1705127708755	1705127709202	KO	jsonPath($[?(@.id==1)].name).find.is(Resident Evil 3), but actually found Resident Evil 4
+REQUEST		Get specific game	1705127714265	1705127714414	OK	 
+REQUEST		Get all video Games second Call	1705127722166	1705127722314	OK	 
+USER	VideoGame DB = section 5 Code	END	1705127725331

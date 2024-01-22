@@ -1,0 +1,6 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDb	videogamedb	1705126438183	test2	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705126440173
+REQUEST		Get all VideoGames	1705126440172	1705126440625	OK	 
+REQUEST		Get specific game	1705126445642	1705126445791	OK	 
+REQUEST		Get all video Games second Call	1705126447343	1705126447491	OK	 
+USER	VideoGame DB = section 5 Code	END	1705126450503

@@ -1,0 +1,13 @@
+RUN	videoGamedb.withFeeders.VideoGaeDbWithFeeders	videogaedbwithfeeders	1705201460415	test	3.10.3
+USER	VideoGame Db - section 6 code	START	1705201461971
+ERROR	Get a videgame with name - Resident Evil 4: Failed to build request: No attribute named 'gameId' is defined 	1705201461977
+ERROR	Get a videgame with name - Gran Turismo 3: Failed to build request: No attribute named 'gameId' is defined 	1705201462988
+ERROR	Get a videgame with name - Tetris: Failed to build request: No attribute named 'gameId' is defined 	1705201463992
+ERROR	Get a videgame with name - Super Mario 64: Failed to build request: No attribute named 'gameId' is defined 	1705201465005
+ERROR	Get a videgame with name - Resident Evil 4: Failed to build request: No attribute named 'gameId' is defined 	1705201466016
+ERROR	Get a videgame with name - Gran Turismo 3: Failed to build request: No attribute named 'gameId' is defined 	1705201467017
+ERROR	Get a videgame with name - Tetris: Failed to build request: No attribute named 'gameId' is defined 	1705201468032
+ERROR	Get a videgame with name - Super Mario 64: Failed to build request: No attribute named 'gameId' is defined 	1705201469037
+ERROR	Get a videgame with name - Resident Evil 4: Failed to build request: No attribute named 'gameId' is defined 	1705201470038
+ERROR	Get a videgame with name - Gran Turismo 3: Failed to build request: No attribute named 'gameId' is defined 	1705201471048
+USER	VideoGame Db - section 6 code	END	1705201472055

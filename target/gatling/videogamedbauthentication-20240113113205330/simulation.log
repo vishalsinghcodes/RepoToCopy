@@ -1,0 +1,5 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDbAuthentication	videogamedbauthentication	1705145525330	t1	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705145526884
+REQUEST		Authenticate	1705145526882	1705145527429	OK	 
+REQUEST		Create New Gane	1705145527502	1705145527661	OK	 
+USER	VideoGame DB = section 5 Code	END	1705145527664

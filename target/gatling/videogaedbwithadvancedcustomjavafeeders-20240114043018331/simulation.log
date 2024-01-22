@@ -1,0 +1,15 @@
+RUN	videoGamedb.withFeeders.VideoGaeDbWithAdvancedCustomJavaFeeders	videogaedbwithadvancedcustomjavafeeders	1705206618331	test	3.10.3
+USER	VideoGame Db - section 6 code	START	1705206619956
+REQUEST		Authenticate	1705206619955	1705206620412	OK	 
+REQUEST		Authenticate Redirect 1	1705206620427	1705206620579	KO	jmesPath(token).find.exists preparation crashed: Jackson failed to parse into a valid AST: c.f.j.c.JsonParseException: Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')  at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 1, column: 2]
+ERROR	Create a new Game - btbCQ-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206620613
+ERROR	Create a new Game - 0qj2J-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206621618
+ERROR	Create a new Game - fdgao-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206622629
+ERROR	Create a new Game - LBxCe-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206623641
+ERROR	Create a new Game - TH5Cp-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206624647
+ERROR	Create a new Game - QlLeb-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206625657
+ERROR	Create a new Game - Doaul-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206626665
+ERROR	Create a new Game - UXULD-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206627676
+ERROR	Create a new Game - km7jD-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206628691
+ERROR	Create a new Game - qpRDE-gameName: Failed to build request: No attribute named 'jwtToken' is defined 	1705206629704
+USER	VideoGame Db - section 6 code	END	1705206630716

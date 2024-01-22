@@ -1,0 +1,14 @@
+RUN	videoGamedb.withFeeders.VideoGaeDbWithAdvancedCustomJavaFeeders	videogaedbwithadvancedcustomjavafeeders	1705206752572	test	3.10.3
+USER	VideoGame Db - section 6 code	START	1705206753897
+REQUEST		Authenticate	1705206753895	1705206754363	OK	 
+REQUEST		Create a new Game - SOUW4-gameName	1705206754425	1705206754579	OK	 
+REQUEST		Create a new Game - lkecG-gameName	1705206755590	1705206755744	OK	 
+REQUEST		Create a new Game - SB7ws-gameName	1705206756760	1705206756915	OK	 
+REQUEST		Create a new Game - vy9Sb-gameName	1705206757929	1705206758083	OK	 
+REQUEST		Create a new Game - vQXau-gameName	1705206759099	1705206759254	OK	 
+REQUEST		Create a new Game - 9PVF5-gameName	1705206760270	1705206760423	OK	 
+REQUEST		Create a new Game - FPx17-gameName	1705206761425	1705206761578	OK	 
+REQUEST		Create a new Game - ymZzZ-gameName	1705206762589	1705206762743	OK	 
+REQUEST		Create a new Game - ZdPVG-gameName	1705206763756	1705206763909	OK	 
+REQUEST		Create a new Game - Lc2PH-gameName	1705206764923	1705206765077	OK	 
+USER	VideoGame Db - section 6 code	END	1705206766096

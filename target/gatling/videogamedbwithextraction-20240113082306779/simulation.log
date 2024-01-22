@@ -1,0 +1,6 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDbWithextraction	videogamedbwithextraction	1705134186779	test	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705134188196
+REQUEST		Get specific game	1705134188194	1705134188698	OK	 
+REQUEST		Get all video Games	1705134197119	1705134197266	OK	 
+REQUEST		Get Specific game with ID -- 2	1705134200286	1705134200433	OK	 
+USER	VideoGame DB = section 5 Code	END	1705134200436

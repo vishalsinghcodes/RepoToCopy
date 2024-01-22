@@ -1,0 +1,6 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDbWithextraction	videogamedbwithextraction	1705135061753	tets	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705135063657
+REQUEST		Get specific game	1705135063655	1705135064185	OK	 
+REQUEST		Get all video Games	1705135073449	1705135073605	OK	 
+REQUEST		Get Specific game with ID -- 2	1705135076620	1705135076789	OK	 
+USER	VideoGame DB = section 5 Code	END	1705135076792

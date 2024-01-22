@@ -1,0 +1,6 @@
+RUN	videoGamedb.scriptFundamentals.VideoGameDbWithextraction	videogamedbwithextraction	1705133662641	testextraction	3.10.3
+USER	VideoGame DB = section 5 Code	START	1705133664890
+REQUEST		Get specific game	1705133664889	1705133665366	KO	jmesPath(name).find.is(Resident Evil 4), but actually found Gran Turismo 3
+REQUEST		Get all video Games	1705133669056	1705133669234	OK	 
+REQUEST		Get Specific game with ID -- 2	1705133672249	1705133672413	KO	jmesPath([1].id).find.is(Gran Turismo 3), but actually found nothing
+USER	VideoGame DB = section 5 Code	END	1705133672416
